@@ -1,37 +1,4 @@
 ## Welcome to GitHub Pages
+Hi there and thanks for checking out my github link :). I'll explain real fast how I used Git Pages in order to build, test, debug, and collaborate with friends and the web development community to horn on my creative skills. By learning everything at home using Udemy.com https://www.udemy.com/share/1025BOBkcaeVhW/ and Tuto.com https://fr.tuto.com/formation-developpeur-front-end.htm I continue to learn all the new technologies.
 
-You can use the [editor on GitHub](https://github.com/wilmerRodriguez/public/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wilmerRodriguez/public/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
